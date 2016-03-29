@@ -12,7 +12,7 @@ This project harnesses the styles awesomeness of the [Semantic UI](http://semant
 
 Try [live demo](http://websemantics.github.io/semantic-dojo).
 
-### Include
+### Install
 
 To include in your own project
 ```
