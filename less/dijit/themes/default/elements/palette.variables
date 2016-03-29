@@ -1,0 +1,10 @@
+/*******************************
+            Palette
+*******************************/
+
+@minorBorderColor: transparent;
+
+// ColorPalette
+@colorpaletteBackgroundColor: @pageBackground;
+@swatchHoveredBorderColor: @grey;
+@swatchSelectedBorderColor: @primaryColor;

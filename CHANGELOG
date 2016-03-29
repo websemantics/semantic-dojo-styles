@@ -1,0 +1,9 @@
+0.2.0
+  date: 2016-03-29
+  changes:
+  - Branch out from main project
+  - Add CHANGELOG
+  - Icon support dijitMenu
+  - Visual fix for Tab widget
+  - Tree widget implementation
+  - Support for Semantic-Ui / dijit menus through custom class `dijitTooltipDialogMenu` using `dijitTooltipDialog`
