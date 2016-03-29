@@ -1,0 +1,25 @@
+{
+  "name": "semantic-dojo-less",
+  "version": "0.2.0",
+  "homepage": "https://github.com/websemantics/semantic-dojo-less",
+  "authors": [
+    "Adnan M.Sagar, Phd. <adnan@websemantics.ca>"
+  ],
+  "description": "This project contains the less styles for Semantic-Dojo",
+  "keywords": [
+    "semantic-dojo",
+    "dojo",
+    "dijit",
+    "dtk",
+    "less",
+    "semantic-ui"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
