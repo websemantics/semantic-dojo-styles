@@ -1,6 +1,6 @@
-# Semantic Dojo Less Styles
+# Semantic Dojo Styles
 
-This project contains the unique less styles for the [Semantic Dojo](https://github.com/websemantics/semantic-dojo) project.
+This project contains the styles for the [Semantic Dojo](https://github.com/websemantics/semantic-dojo) project.
 
 > Last update:  29 March 2016
 
