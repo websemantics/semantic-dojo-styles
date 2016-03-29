@@ -1,11 +1,11 @@
 {
-  "name": "semantic-dojo-less",
-  "version": "0.2.0",
-  "homepage": "https://github.com/websemantics/semantic-dojo-less",
+  "name": "semantic-dojo-styles",
+  "version": "0.2.1",
+  "homepage": "https://github.com/websemantics/semantic-dojo-styles",
   "authors": [
     "Adnan M.Sagar, Phd. <adnan@websemantics.ca>"
   ],
-  "description": "This project contains the less styles for Semantic-Dojo",
+  "description": "This project contains the styles for Semantic-Dojo",
   "keywords": [
     "semantic-dojo",
     "dojo",
