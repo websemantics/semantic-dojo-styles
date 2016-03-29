@@ -16,5 +16,5 @@ Try [live demo](http://websemantics.github.io/semantic-dojo).
 
 To include in your own project
 ```
-git submodule add https://github.com/websemantics/semantic-dojo-styles
+bower install semantic-dojo-styles
 ```
