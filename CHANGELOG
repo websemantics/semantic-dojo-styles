@@ -1,7 +1,7 @@
 0.2.0
   date: 2016-03-29
   changes:
-  - Branch out from main project
+  - Branch out from main project, Semantic Dojo
   - Add CHANGELOG
   - Icon support dijitMenu
   - Visual fix for Tab widget
