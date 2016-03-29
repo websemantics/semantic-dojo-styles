@@ -1,3 +1,9 @@
+0.2.1
+  date: 2016-03-29
+  changes:
+  - Rename project to semantic-dojo-styles (from semantic-dojo-less)
+  - Fix path issues with semantic folder
+  
 0.2.0
   date: 2016-03-29
   changes:
