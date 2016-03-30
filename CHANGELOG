@@ -1,12 +1,17 @@
+0.2.4
+  date: 2016-03-29
+  changes:
+  - Require Semantic UI directly
+
 0.2.3
   date: 2016-03-29
   changes:
   - Fix icons path
 
-  0.2.2
-    date: 2016-03-29
-    changes:
-    - Fix issues with semantic-ui relative path
+0.2.2
+  date: 2016-03-29
+  changes:
+  - Fix issues with semantic-ui relative path
 
 0.2.1
   date: 2016-03-29

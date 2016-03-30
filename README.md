@@ -19,14 +19,15 @@ To include in your own project
 bower install semantic-dojo-styles
 ```
 
-This package assumens the `semantic-ui` package to be present on the same level,
+This package requires the `semantic-ui` package to be present at `less` folder
 ```
 .
 |
 ├── src
 |   ├── semantic-dojo-styles
-|   |   
-|   ├── semantic
+|         |   
+|         ├── less
+|              ├── semantic
 |
 
 ```
