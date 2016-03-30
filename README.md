@@ -29,3 +29,8 @@ This package requires the `semantic` package to be present on the same level
 |
 
 ```
+
+###  How To
+
+For an example of how you can use this package, check the [Semantic Dojo](https://github.com/websemantics/semantic-dojo) project.
+
