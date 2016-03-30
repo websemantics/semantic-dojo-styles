@@ -2,7 +2,7 @@
 
 This project contains the styles for the [Semantic Dojo](https://github.com/websemantics/semantic-dojo) project.
 
-> Last update:  29 March 2016
+> Last update:  30 March 2016
 
 This project harnesses the styles awesomeness of the [Semantic UI](http://semantic-ui.com) framework with Dojo Toolkit powerful UI widgets.
 

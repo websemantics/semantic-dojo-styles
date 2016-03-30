@@ -1,7 +1,13 @@
-0.2.4
-  date: 2016-03-29
+0.2.5
+  date: 2016-03-30
   changes:
-  - Require Semantic UI directly
+  - Rename main folder to `src`
+  - Load font icons from semantic by default
+
+  0.2.4
+    date: 2016-03-29
+    changes:
+    - Require Semantic ui as dependancy
 
 0.2.3
   date: 2016-03-29
